@@ -4,7 +4,7 @@
 <h2>cpp:</h2>
   <p>
   (for linux terminal)<br>
-  compile: g++ main.cp<br>
+  compile: g++ main.cpp<br>
   run: ./a.out
   </p>
 <h2>java:</h2>
