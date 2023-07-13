@@ -2,10 +2,11 @@
 
 
 <h2>cpp:</h2>
-  (for linux terminal)
-  compile: g++ main.cp
+  <p>
+  (for linux terminal)<br>
+  compile: g++ main.cp<br>
   run: ./a.out
-
+  </p>
 <h2>java:</h2>
   <h3>city:</h3>
     <p>
